@@ -1,0 +1,19 @@
+#mainmenu 
+{background: #1a77ff;     
+position: relative;     
+overflow: hidden;     
+height: 180px;     
+margin: 30px 0;}
+#mainmenu ul li 
+{position: relative;        
+float: left;     
+margin: 0 10px;     
+height: 60px } 
+#mainmenu ul li a 
+{color: #fff;     
+display: block;     
+text-decoration: none;     
+padding: 0 15px;     
+line-height: 40px; } 
+#mainmenu ul li a:hover 
+{background-color: #666; }
